@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/cli/oauth"
+	"github.com/aristanetworks/github-cli-oauth"
 )
 
 // DetectFlow attempts to initiate OAuth Device flow with the server and falls back to OAuth Web

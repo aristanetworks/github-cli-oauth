@@ -22,7 +22,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/cli/oauth/api"
+	"github.com/aristanetworks/github-cli-oauth/api"
 )
 
 var (

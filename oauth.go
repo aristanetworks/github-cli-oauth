@@ -9,8 +9,8 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/cli/oauth/api"
-	"github.com/cli/oauth/device"
+	"github.com/aristanetworks/github-cli-oauth/api"
+	"github.com/aristanetworks/github-cli-oauth/device"
 )
 
 type httpClient interface {

@@ -7,7 +7,7 @@ import (
 	"os"
 
 	"github.com/cli/browser"
-	"github.com/cli/oauth/webapp"
+	"github.com/aristanetworks/github-cli-oauth/webapp"
 )
 
 // Initiate the OAuth App Authorization Flow for GitHub.com.

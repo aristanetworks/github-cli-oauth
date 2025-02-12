@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/cli/oauth/device"
+	"github.com/aristanetworks/github-cli-oauth/device"
 )
 
 // This demonstrates how to perform OAuth Device Authorization Flow for GitHub.com.
